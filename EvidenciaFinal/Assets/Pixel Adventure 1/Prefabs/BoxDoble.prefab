@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8907547238776045726}
   - component: {fileID: 6703035011185030234}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: BoxCollider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -89,7 +89,7 @@ GameObject:
   - component: {fileID: 3005619718286257951}
   - component: {fileID: 2218258086858421784}
   - component: {fileID: 4477614269075348216}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Break (28x24)_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -220,7 +220,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2012276454165606277}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: BreakParts
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -258,7 +258,7 @@ GameObject:
   - component: {fileID: 1844002133280457255}
   - component: {fileID: 2321468294477731712}
   - component: {fileID: 1813570698219069000}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Break (28x24)_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -389,7 +389,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4174512100307417315}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: BoxDoble
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -425,7 +425,7 @@ GameObject:
   - component: {fileID: 8057784606408530726}
   - component: {fileID: 3952461590331964758}
   - component: {fileID: 8015051076251817687}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Break (28x24)_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -560,7 +560,7 @@ GameObject:
   - component: {fileID: 6399716007921565936}
   - component: {fileID: 2450413178101710170}
   - component: {fileID: 2550180411672483662}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: BoxSpriteRenderer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -730,7 +730,7 @@ GameObject:
   - component: {fileID: 8239200136404373532}
   - component: {fileID: 6396955470776251311}
   - component: {fileID: 7035506585819903150}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Break (28x24)_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}

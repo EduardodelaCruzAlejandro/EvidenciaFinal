@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4060583636701688461}
   - component: {fileID: 1864672078001216388}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Chain (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3022408430365678581}
   - component: {fileID: 8201489260161166022}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ChainEnd
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -178,7 +178,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7231990094075660958}
   - component: {fileID: 1685323118891104363}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ChainStart
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -262,7 +262,7 @@ GameObject:
   m_Component:
   - component: {fileID: 887166254444301819}
   - component: {fileID: 461771177521384212}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Chain (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -345,7 +345,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7285107652134237667}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: PlatformVertical
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -384,7 +384,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1484710319942509077}
   - component: {fileID: 2588149459001884663}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Chain (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -636,7 +636,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2630226081105926528}
   - component: {fileID: 631158479521728314}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Chain (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
